@@ -23,10 +23,19 @@ Live website: https://ericlafontsee.github.io/Password-Generator/
 HTML  
 CSS  
 JavaScript  
-
+Google Fonts
+Font-Awesome
 ## Installation
-No outside software or frameworks required.
+To utilize the Google Fonts insert the following link into the head of your HTML:
+```html
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+```
 
+To utlize the Font-Awesome icon, enter the follwing script into the head of your HTML:
+
+```html
+    <script src="https://kit.fontawesome.com/0ad6dfef5e.js" crossorigin="anonymous"></script>
+```
 
 ## Author
 Eric LaFontsee - JavaScript
