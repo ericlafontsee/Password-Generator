@@ -43,6 +43,9 @@ To utlize the Font-Awesome icon, enter the follwing script into the head of your
 Eric LaFontsee - JavaScript
 Trilogy - HTML and CSS
 
+## Contact
+Email - elafontsee@gmail.com
+
 ## License
 MIT License
 
