@@ -10,6 +10,9 @@ For our homework assignment, we needed to create a password generator using java
 If the user does not specify the criteria or if the password length is not within bounds, the program does not run.
 If the user correctly enters their criteria, a random password will be generated and displayed in the text box.
 
+Deployed website: https://ericlafontsee.github.io/Password-Generator/
+
+
 ##Usage
 ![image](images/image-1.png)
 ![image](images/image-2.png)
@@ -17,7 +20,6 @@ If the user correctly enters their criteria, a random password will be generated
 ![image](images/image-6.png)
 ![image](images/image-8.png)
 
-Live website: https://ericlafontsee.github.io/Password-Generator/
 
 ## Built With
 HTML  
